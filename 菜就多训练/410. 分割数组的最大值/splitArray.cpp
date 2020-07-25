@@ -5,7 +5,7 @@ public:
 	int splitArray(vector<int>& nums, int m) {
 
 
-
+		cout << "²âÊÔÌá½»" << endl;
 		return 0;
 	}
 };
