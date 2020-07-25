@@ -1,0 +1,5 @@
+﻿  calculateMinimumHP.cpp
+c:\users\asus\source\repos\菜就多训练\174.地下城游戏\calculateminimumhp.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\菜就多训练\174.地下城游戏\calculateminimumhp.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\菜就多训练\174.地下城游戏\calculateminimumhp.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  174.地下城游戏.vcxproj -> C:\Users\ASUS\source\repos\菜就多训练\Debug\174.地下城游戏.exe

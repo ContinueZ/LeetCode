@@ -1,0 +1,3 @@
+﻿  最长公共前缀.cpp
+c:\users\asus\source\repos\菜就多训练\14.最长公共前缀\最长公共前缀.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  14.最长公共前缀.vcxproj -> C:\Users\ASUS\source\repos\菜就多训练\x64\Debug\14.最长公共前缀.exe

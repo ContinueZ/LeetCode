@@ -1,0 +1,6 @@
+﻿  寻找两个有序数组的中位数.cpp
+c:\users\asus\source\repos\菜就多训练\04 寻找两个有序数组的中位数\寻找两个有序数组的中位数.cpp(34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\菜就多训练\04 寻找两个有序数组的中位数\寻找两个有序数组的中位数.cpp(37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\菜就多训练\04 寻找两个有序数组的中位数\寻找两个有序数组的中位数.cpp(40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\菜就多训练\04 寻找两个有序数组的中位数\寻找两个有序数组的中位数.cpp(41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  04 寻找两个有序数组的中位数.vcxproj -> C:\Users\ASUS\source\repos\菜就多训练\x64\Debug\04 寻找两个有序数组的中位数.exe

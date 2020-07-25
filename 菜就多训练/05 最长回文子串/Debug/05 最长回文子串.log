@@ -1,0 +1,5 @@
+﻿  最长回文子串.cpp
+c:\users\asus\source\repos\菜就多训练\05 最长回文子串\最长回文子串.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\菜就多训练\05 最长回文子串\最长回文子串.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\source\repos\菜就多训练\05 最长回文子串\最长回文子串.cpp(25): warning C4018: “>=”: 有符号/无符号不匹配
+  05 最长回文子串.vcxproj -> C:\Users\ASUS\source\repos\菜就多训练\Debug\05 最长回文子串.exe

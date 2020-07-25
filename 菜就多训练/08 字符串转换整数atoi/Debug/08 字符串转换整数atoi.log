@@ -1,0 +1,4 @@
+﻿  字符串转换整数atoi.cpp
+c:\users\asus\source\repos\菜就多训练\08 字符串转换整数atoi\字符串转换整数atoi.cpp(35): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\菜就多训练\08 字符串转换整数atoi\字符串转换整数atoi.cpp(37): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  08 字符串转换整数atoi.vcxproj -> C:\Users\ASUS\source\repos\菜就多训练\Debug\08 字符串转换整数atoi.exe

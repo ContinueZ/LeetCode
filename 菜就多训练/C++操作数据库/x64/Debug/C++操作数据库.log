@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(C++操作数据库.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mysql.cpp
+c:\users\asus\source\repos\菜就多训练\c++操作数据库\mysql.cpp(131): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\菜就多训练\c++操作数据库\mysql.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+  C++操作数据库.vcxproj -> C:\Users\ASUS\source\repos\菜就多训练\x64\Debug\mysql.exe
