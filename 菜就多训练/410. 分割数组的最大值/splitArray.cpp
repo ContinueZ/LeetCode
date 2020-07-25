@@ -10,6 +10,7 @@ public:
 		cout << "第三次测试提交" << endl;
 		cout << "fourth test commit" << endl;
 		cout << "5th test commit" << endl;
+		cout << "6th test commit" << endl;
 		return 0;
 	}
 };
