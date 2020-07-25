@@ -1,9 +1,12 @@
-#include "..\..\include.h"
+#include "..\include.h"
 
 class Solution {
 public:
 	int splitArray(vector<int>& nums, int m) {
 
+
+
+		return 0;
 	}
 };
 
