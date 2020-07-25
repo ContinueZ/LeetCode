@@ -12,6 +12,7 @@ public:
 		cout << "5th test commit" << endl;
 		cout << "6th test commit" << endl;
 		cout << "7th test commit" << endl;
+		cout << "8th test commit" << endl;
 		return 0;
 	}
 };
