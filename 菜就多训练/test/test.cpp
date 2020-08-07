@@ -1,5 +1,4 @@
 #include<iostream>
-#include<iterator>
 #include<vector>
 #include<algorithm>
 #include<map>
@@ -8,23 +7,27 @@
 #include<cassert>
 #include <cstring>
 #include <cstdio>
+#include<iomanip>
+
 using namespace std;
 
-#define OFFSET(s,m) size_t(&((s*)0)->m)
-
-union TEST {
-	short i;
-	char c[sizeof(short)];
+class Solution {
+public:
+	vector<int> grayCode(int n) {
+		int size = (1 << n);//±íÊ¾1×óÒÆnÎ»
+		vector<int> result;
+		for (int i = 0; i < size; ++i) {
+			result.push_back(i ^ (i >> 1));
+		}
+		return result;
+	}
 };
-int main(int argc, char *argv[]) {
+int main() 
+{
+	Solution s;
+	int n;
+	cin >> n;
+	s.grayCode(n);
 
-	TEST test;
-	test.i = 0x0102;
-	if (test.c[0] == 0x01 && test.c[1] == 0x02)
-		cout << "big endian" << endl;
-	else if (test.c[0] == 0x02 && test.c[1] == 0x01)
-		cout << "small endian." << endl;
-	else
-		cout << "unkown.." << endl;
 	return 0;
 }
